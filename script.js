@@ -32,6 +32,7 @@ document.querySelector('.check').addEventListener('click', function() {
 
 
         // manipulating css properties
+        
         document.querySelector('body').style.backgroundColor = '#60b347';
         document.querySelector('.number').style.width = '30rem';
 
@@ -66,6 +67,7 @@ document.querySelector('.check').addEventListener('click', function() {
 
     }
 });
+
 
 // restart game 
 
